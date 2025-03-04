@@ -451,6 +451,7 @@ Franco Lai
 - [VulcanWM](https://github.com/VulcanWM)
 - [Aditya Singh](https://github.com/adityasingh22)
 - [Michael Picc](https://github.com/Michael-Picc)
+- [Lesly M Dsouza](https://github.com/LESLY16)
 
 # [Steven Wong](https://github.com/ycstevenwong)
 
